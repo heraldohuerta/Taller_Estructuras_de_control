@@ -1,24 +1,3 @@
-# num = 0
-# while num >= 0 and num <=36
-#   puts "Ingrese Numero entre 0 y 36"
-#   num  = gets.chomp.to_i
-# end
-
-# 10.times do |i|
-#   puts i if i.even?
-# end
-
-# valor = 1
-# while valor != 5
-#   puts "Ingrese Opcion1"
-#   puts "Ingrese Opcion2"
-#   puts "Ingrese Opcion3"
-#   puts "Ingrese Opcion4"
-#   puts "Ingrese 5 para salir"
-#   valor =  gets.chomp.to_i
-#   puts "Ingreso la opcion #{valor}"
-# end
-
 ######################## Condicional: If and else/ ########################
 
 # Ejercicio 1
